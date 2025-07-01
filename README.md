@@ -20,8 +20,31 @@ Atualmente, utilizo ferramentas como **Robot Framework** e **Cypress**, e estou 
   <img src="https://camo.githubusercontent.com/3bfa7d7dfc3ced5f92df6b2b08b0e18e5c532b8ea2b022d5b05d98087c856fb4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f636f6e666c75656e63652f636f6e666c75656e63652d6f726967696e616c2e737667" width="30px" />
 </p>
 
+---
+
+## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=EvelynLouise&show_icons=true&theme=radical" width="300" /></td>
+    <td style="width:20px;">&nbsp;</td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynLouise&layout=compact&theme=radical" width="300" /></td>
+  </tr>
+</table>
 
 
 ---
 
-## 💡 Projetos em Destaque
+## 📂 Documentação:
+
+### 📁 Automação - Robot Framework  
+🔗 [Acesse aqui](https://lnkd.in/dvjckFZ7)  
+*O que é o Robot Framework, como escrever testes, comandos úteis e exemplo prático.*
+
+### 📁 Automação Mobile - Robot Framework + Appium  
+🔗 *Em breve*  
+*Configuração de ambiente mobile, escrita de testes e exemplos práticos.*
+
+### 📁 Automação Web - Cypress  
+🔗 *Em breve*  
+*Automação de testes web utilizando Cypress, boas práticas*
