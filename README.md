@@ -13,12 +13,14 @@ Atualmente, utilizo ferramentas como **Robot Framework** e **Cypress**, e estou 
 ## 🧪 QA Stack
 
 <p>
-  <img src="https://github.com/user-attachments/assets/61354ce0-2b16-4e0b-b9d7-fa3bd3adc678" width="30px" style="margin-right: 30px;" />
-  <img src="https://github.com/user-attachments/assets/71898884-39ec-4790-a48e-962ca3fe591b" width="30px" style="margin-right: 30px;" />
-  <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="30px"   style="marginright: 30px;" />
-  <img src="https://camo.githubusercontent.com/846a58b5795502a7f7b4016dd2c934bad2d3b80341db7ce9fc0ada3c8a1ac2d3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" width="30px" style="margin-right: 30px;" />
-  <img src="https://camo.githubusercontent.com/3bfa7d7dfc3ced5f92df6b2b08b0e18e5c532b8ea2b022d5b05d98087c856fb4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f636f6e666c75656e63652f636f6e666c75656e63652d6f726967696e616c2e737667" width="30px" style="margin-right: 30px;" />
+  <img src="https://github.com/user-attachments/assets/61354ce0-2b16-4e0b-b9d7-fa3bd3adc678" width="30px" />
+  <img src="https://github.com/user-attachments/assets/71898884-39ec-4790-a48e-962ca3fe591b" width="30px" />
+  <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="30px" />
+  <img src="https://camo.githubusercontent.com/846a58b5795502a7f7b4016dd2c934bad2d3b80341db7ce9fc0ada3c8a1ac2d3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" width="30px" />
+  <img src="https://camo.githubusercontent.com/3bfa7d7dfc3ced5f92df6b2b08b0e18e5c532b8ea2b022d5b05d98087c856fb4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f636f6e666c75656e63652f636f6e666c75656e63652d6f726967696e616c2e737667" width="30px" />
 </p>
+
+
 
 ---
 
