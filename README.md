@@ -40,11 +40,11 @@ Atualmente, utilizo ferramentas como **Robot Framework** e **Cypress**, e estou 
 ### 📁 Automação - Robot Framework  
 🔗 [Acesse aqui](https://github.com/evelynlou/Automa-o-de-Testes)
 
-*O que é o Robot Framework, como escrever testes, comandos úteis e exemplo prático.*
+*O que é o Robot Framework, como escrever testes, comandos úteis e exemplo prático e muito mais.*
 
 ### 📁 Automação Mobile - Robot Framework + Appium  
-🔗 *Em breve*  
-*Configuração de ambiente mobile, escrita de testes e exemplos práticos.*
+🔗  [Acesse aqui](https://github.com/evelynlou/automacao-mobile)
+*Configuração de ambiente mobile, escrita de testes e exemplo prático e muito mais*
 
 ### 📁 Automação Web - Cypress  
 🔗 *Em breve*  
