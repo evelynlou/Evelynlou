@@ -44,6 +44,7 @@ Atualmente, utilizo ferramentas como **Robot Framework** e **Cypress**, e estou 
 
 ### 📁 Automação Mobile - Robot Framework + Appium  
 🔗  [Acesse aqui](https://github.com/evelynlou/automacao-mobile)
+
 *Configuração de ambiente mobile, escrita de testes e exemplo prático e muito mais*
 
 ### 📁 Automação Web - Cypress  
