@@ -2,9 +2,9 @@
 
 `Estagiária em Tecnologia | Qualidade de Software | Testes Manuais e Automatizados`
 
-Me chamo Evelyn Louise, sou de Belém do Pará e moro em Florianópolis. Atualmente atuo como estagiária de tecnologia na área de Qualidade de Software, com foco em testes manuais e automatizados. Tenho experiência real com projetos.
+Me chamo Evelyn Louise, atuo como estagiária de tecnologia na área de Qualidade de Software, com foco em testes manuais e automatizados. Tenho experiência real com projetos.
 
-Trabalho com testes E2E para aplicações Web e Mobile, participando ativamente da estruturação de qualidade e da entrega contínua em times ágeis.
+Trabalho com testes E2E para aplicações Web e Mobile, participando ativamente da estruturação de qualidade e da entrega contínua.
 
 Atualmente, utilizo ferramentas como **Robot Framework** e **Cypress**, e estou aprendendo **Postman** para testes de performance, sempre buscando melhorar processos de qualidade através de boas práticas, documentação e automação eficiente.
 
