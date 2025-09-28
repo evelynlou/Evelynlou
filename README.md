@@ -47,6 +47,11 @@ Atualmente, utilizo ferramentas como **Robot Framework** e **Cypress**, e estou 
 
 *Configuração de ambiente mobile, escrita de testes e exemplo prático e muito mais*
 
+### 📁 Automação Web com IA - Browser-Use  
+🔗  [Acesse aqui](https://github.com/evelynlou/browser-use)
+
+*Configuração, instalação, vantagens e desvantagens do browser-user, Browser-cloud e muito mais*
+
 ### 📁 Automação Web - Cypress  
 🔗 *Em breve*  
 *Automação de testes web utilizando Cypress, boas práticas*
