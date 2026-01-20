@@ -53,6 +53,7 @@ Atualmente, utilizo ferramentas como **Robot Framework** e **Cypress**, e estou 
 
 *Configuração, instalação, vantagens e desvantagens do browser-user, Browser-cloud e muito mais*
 
-### 📁 Automação Web - Cypress  
-🔗 *Em breve*  
-*Automação de testes web utilizando Cypress, boas práticas*
+### 📁 Automação - Cypress  
+🔗 [Acesse aqui](https://github.com/evelynlou/Cypress)
+  
+*Automação de testes web utilizando Cypress, instalação, escrita, API é muito mais*
