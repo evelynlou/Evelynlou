@@ -53,4 +53,4 @@ Trabalho com testes E2E para aplicações Web e Mobile, participando ativamente 
 
 - Testes de API
 
-Estruturação do projeto
+- Estruturação do projeto
